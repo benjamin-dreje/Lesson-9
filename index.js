@@ -24,7 +24,6 @@ console.log(newColor);
 //end  - how much to remove
 let days = ["Sun", "Mon", "Wed", "Thu"];
 days.splice(2, 3, "Thu", "Wed");
-console.log(days);
 
 //splice
 let scores = [100, 90, 80, 70];
