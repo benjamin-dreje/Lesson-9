@@ -1,6 +1,7 @@
 // push - מוסיפה איבר לסוף המערך
 let fruits = ["apple", "banana"];
 fruits.push("orange");
+console.log(fruits);
 
 // unshift - מוסיפה איבר לתחילת המערך
 fruits.unshift();
